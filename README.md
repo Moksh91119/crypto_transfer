@@ -4,7 +4,7 @@
 
 ## Overview
 
-https://github.com/Moksh91119/crypto_transfer/assets/111447162/0dbf8dd1-632e-4f7b-b898-3686c817ed1d
+https://github.com/Moksh91119/crypto_transfer/assets/111447162/c69db5a1-6730-4603-bb02-efbc700cd37d
 
 WEB3 Cryptocurrency Transfer Project is a one-page application built with React.js and Ethereum smart contracts. It consists of several sections including Navbar, Home Section, Services, Transactions, and Footer. Users can transfer cryptocurrency by connecting their MetaMask wallet and filling out a form with details such as the receiver's account address, amount of Ethereum, keyword, and message.
 
